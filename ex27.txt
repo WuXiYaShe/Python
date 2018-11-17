@@ -1,0 +1,9 @@
+与		&	and
+或		|	or  
+非		!	not	
+真			True	
+假			False
+等于		=	equal 
+不等于	!=	not equal 
+大于等于 >=	gerater-than-equal
+小于等于 <=	less-than-equal
